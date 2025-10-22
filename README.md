@@ -1,4 +1,3 @@
-About This Project: Pong
 This project demonstrates a streamlined DevOps pipeline for a simple web application. The core is a classic Pong game built with HTML, CSS, and vanilla JavaScript.
 
 Implementation and Workflow
